@@ -1,0 +1,24 @@
+﻿@page
+@model GadgetsModel
+
+@{
+    ViewData["Title"] = "Gadgets";
+}
+
+<h1 class="my-4">Latest Tech Innovations</h1>
+
+<div class="row">
+    @foreach (var gadget in Model.Gadgets)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="@gadget.ImageUrl" alt="@gadget.Name">
+                <div class="card-body">
+                    <h4 class="card-title">@gadget.Name</h4>
+                    <p class="card-text"><strong>Category:</strong> @gadget.Category</p>
+                    <p class="card-text">@gadget.Specifications</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

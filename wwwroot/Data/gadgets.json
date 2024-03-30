@@ -1,0 +1,38 @@
+﻿[
+  {
+    "name": "INNOvibe X",
+    "category": "Smartphone",
+    "specifications": "6.5-inch display, 128GB storage, 8GB RAM",
+    "imageUrl": "https://images.unsplash.com/photo-1526038335545-4b96864eaee7?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "VIBEbook pro",
+    "category": "Laptop",
+    "specifications": "15-inch screen, 256GB SSD, 16GB RAM",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2344&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "VIBEwatch series9",
+    "category": "Wearable",
+    "specifications": "1.5-inch display, GPS, Heart-rate sensor",
+    "imageUrl": "https://images.unsplash.com/photo-1611864598766-0dadbf1f21d8?q=80&w=2352&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "INNOpad X pro",
+    "category": "Tablet",
+    "specifications": "10-inch display, 64GB storage, 4GB RAM",
+    "imageUrl": "https://images.unsplash.com/photo-1585770536735-27993a080586?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "VIBEreader series3",
+    "category": "E-Reader",
+    "specifications": "6-inch display, 8GB storage, 300ppi E-ink screen",
+    "imageUrl": "https://images.unsplash.com/photo-1676107779389-914bbff132ba?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "VIBEbox 4 pro",
+    "category": "Gaming",
+    "specifications": "4K HDR, 1TB storage, 8-core CPU",
+    "imageUrl": "https://images.unsplash.com/photo-1683823363266-efa8cedec4d4?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
